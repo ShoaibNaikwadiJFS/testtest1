@@ -1,5 +1,0 @@
-This is test
-
-Hi batch
-
-how are you?
